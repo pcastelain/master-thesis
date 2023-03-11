@@ -1,0 +1,4 @@
+#Exclude debug files
+/Debug/
+#Exclude .Rhistory
+*.Rhistory

@@ -1,0 +1,7 @@
+Package: nonStatInf
+Title: Non-stationary Inference using modified MvPot
+Description: This package contains functions needed for parallel cluster computation. 
+            It is not intended to be used widely outside research projects.
+            The documentation is incomplete
+Version: 0.1
+Author: Paul Castelain <paul.castelain@alumni.epfl.ch>
